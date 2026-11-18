@@ -11,7 +11,7 @@ Thêm ít nhất 3 sinh viên bằng insertMany().
 Sử dụng find() để hiển thị danh sách sinh viên.
 Đóng kết nối MongoDB sau khi hoàn thành.
 
-4. Các bước thực hiện
+3. Các bước thực hiện
 Bước 1: Khởi tạo dự án Node.js
 bash
 npm init -y
@@ -28,23 +28,23 @@ Bước 4: Chạy chương trình
 bash
 node bai04.js
 
-5. Hình ảnh minh chứng
+4. Hình ảnh minh chứng
 Ảnh 1: kết nối MongoDB
 
+<img width="327" height="43" alt="image" src="https://github.com/user-attachments/assets/6791e0cb-faa0-4eff-882b-fe91c8c9c83c" />
 
-Ảnh 2: Cấu trúc thư mục và mã nguồn
 
-Chèn ảnh file bai04.js tại đây.
+Ảnh 2: Kết quả chạy chương trình trên Terminal
 
-Ảnh 3: Kết quả chạy chương trình trên Terminal
+<img width="456" height="451" alt="image" src="https://github.com/user-attachments/assets/117e6815-ad51-42fe-a49c-549321af4947" />
 
-Chèn ảnh kết quả chạy lệnh node bai04.js tại đây.
 
-Ảnh 4: Dữ liệu trong MongoDB Compass
+Ảnh 3: Dữ liệu trong MongoDB Compass
 
-Chèn ảnh database qlsinhvien, collection students hiển thị 3 sinh viên tại đây.
+<img width="459" height="490" alt="image" src="https://github.com/user-attachments/assets/410e84b7-e9e0-4111-b6ef-f1a1a2868583" />
 
-6. Kết quả
+
+5. Kết quả
 
 Chương trình thực hiện thành công:
 
