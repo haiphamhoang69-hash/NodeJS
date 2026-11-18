@@ -78,7 +78,7 @@ Tong = 30
 
 Ảnh 3: Khởi động Web Server
 
-
+<img width="422" height="43" alt="image" src="https://github.com/user-attachments/assets/34140009-8d58-49bd-8c97-e10a62c19974" />
 
 
 !Khoi dong server
@@ -86,6 +86,9 @@ Tong = 30
 Ảnh 4: Kết quả chức năng hello và sum
 
 Chèn ảnh trình duyệt hiển thị kết quả:
+
+
+
 
 Xin chào Minh.
 Tổng = 30.
