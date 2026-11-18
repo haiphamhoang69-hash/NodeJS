@@ -87,8 +87,12 @@ Tong = 30
 
 Chèn ảnh trình duyệt hiển thị kết quả:
 
+<img width="339" height="86" alt="image" src="https://github.com/user-attachments/assets/b3a1cbe5-717f-439f-bb40-cf8f3646fa98" />
 
 Xin chào Minh.
+
+<img width="339" height="85" alt="image" src="https://github.com/user-attachments/assets/bf75bb65-b1b0-47af-a6e3-72e3663765e1" />
+
 Tổng = 30.
 
 !Ket qua hello va sum
