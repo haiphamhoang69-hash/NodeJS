@@ -101,13 +101,17 @@ Tổng = 30.
 
 Chèn ảnh trình duyệt hiển thị thông báo khi thiếu tham số hoặc nhập giá trị không hợp lệ.
 
+
 <img width="347" height="92" alt="image" src="https://github.com/user-attachments/assets/2d133549-acaa-4792-ab1c-56eb960cfd27" />
+
 
 Lỗi giá trị không hợp lệ.
 
 
+<img width="284" height="103" alt="image" src="https://github.com/user-attachments/assets/012915a7-d1ee-4721-b8d1-cb44991aba78" />
 
 
+Lỗi thiếu tham số name
 
 !Ket qua kiem tra loi
 
