@@ -55,8 +55,6 @@ node bai06.js
 Ảnh 2: Kết quả chạy chương trình
 
 
-
-
 Kết quả hiển thị trên Terminal:
 
 text
