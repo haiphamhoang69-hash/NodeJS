@@ -16,18 +16,6 @@ MongoDB Community Server
 MongoDB Compass
 Visual Studio Code
 Command Prompt (CMD)
-4. Cấu trúc thư mục
-text
-Bt05/
-├── bai05.js
-├── package.json
-├── package-lock.json
-├── README.md
-└── images/
-    ├── buoc1.png
-    ├── buoc2.png
-    ├── buoc3.png
-    └── buoc4.png
 
 5. Các bước thực hiện
 Bước 1: Khởi tạo dự án Node.js
@@ -62,19 +50,16 @@ node bai05.js
 6. Kết quả thực hiện
 Ảnh 1: Khởi tạo dự án và cài đặt thư viện
 
-Chèn ảnh CMD sau khi thực hiện npm init -y và npm install mongodb.
+<img width="505" height="393" alt="image" src="https://github.com/user-attachments/assets/4623ee38-e681-459d-b1c1-5e3bdeec5b41" />
+
 
 !Cai dat thu vien
 
-Ảnh 2: Nội dung mã nguồn bai05.js
-
-Chèn ảnh mã nguồn chương trình trong Visual Studio Code.
-
-!Ma nguon bai05
 
 Ảnh 3: Kết quả tìm kiếm và sắp xếp
 
-Chương trình tìm được các sinh viên có điểm từ 7 trở lên và sắp xếp theo thứ tự giảm dần:
+
+
 
 Phạm Hoàng Hải: 9.5 điểm.
 Nguyễn Thanh Danh: 8.5 điểm.
