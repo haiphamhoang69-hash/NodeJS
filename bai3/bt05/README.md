@@ -59,6 +59,7 @@ node bai05.js
 Ảnh 3: Kết quả tìm kiếm và sắp xếp
 
 
+<img width="541" height="294" alt="image" src="https://github.com/user-attachments/assets/81486ef6-b7e9-4cb3-a604-4aa14e77f266" />
 
 
 Phạm Hoàng Hải: 9.5 điểm.
@@ -73,6 +74,9 @@ Sinh viên có mã CDCNTT18A07 được cập nhật điểm từ 8.5 lên 9.5.
 Chương trình hiển thị thông tin sau khi cập nhật thành công và đóng kết nối MongoDB.
 
 !Ket qua cap nhat
+
+
+
 
 7. Kết luận
 
