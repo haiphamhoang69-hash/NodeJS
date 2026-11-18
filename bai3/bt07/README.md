@@ -10,13 +10,8 @@ Tạo Web Server chạy tại cổng 3001.
 Truy cập /hello?name=Minh hiển thị Xin chào Minh.
 Truy cập /sum?a=10&b=20 hiển thị Tổng = 30.
 Trả về thông báo lỗi nếu thiếu tham số hoặc giá trị không hợp lệ.
-3. Công cụ sử dụng
-Node.js
-Visual Studio Code
-Google Chrome
-Command Prompt (CMD)
 
-4. Các bước thực hiện
+3. Các bước thực hiện
 Bước 1: Khởi tạo dự án Node.js
 
 Mở CMD tại thư mục Bt07 và nhập lệnh:
@@ -73,46 +68,17 @@ Kết quả:
 text
 Tong = 30
 
-
-Kiểm tra lỗi thiếu tham số:
-
-text
-http://localhost:3001/hello
-
-
-Kết quả:
-
-text
-Loi: Thieu tham so name!
-
-
-Kiểm tra giá trị không hợp lệ:
-
-text
-http://localhost:3001/sum?a=abc&b=20
-
-
-Kết quả:
-
-text
-Loi: Gia tri a va b phai la so hop le!
-
-5. Hình ảnh minh chứng
+4. Hình ảnh minh chứng
 Ảnh 1: Khởi tạo dự án Node.js
 
-Chèn ảnh CMD thực hiện lệnh npm init -y.
+<img width="506" height="298" alt="image" src="https://github.com/user-attachments/assets/7c112449-817c-4dc0-a9e8-b6e18715e398" />
+
 
 !Khoi tao du an
 
-Ảnh 2: Nội dung mã nguồn bai07.js
-
-Chèn ảnh code trong Visual Studio Code.
-
-!Ma nguon bai07
-
 Ảnh 3: Khởi động Web Server
 
-Chèn ảnh Terminal sau khi chạy lệnh node bai07.js.
+
 
 !Khoi dong server
 
@@ -131,7 +97,7 @@ Chèn ảnh trình duyệt hiển thị thông báo khi thiếu tham số hoặc
 
 !Ket qua kiem tra loi
 
-6. Kết luận
+5. Kết luận
 
 Đã hoàn thành bài tập xử lý tham số URL trên Web Server bằng Node.js.
 
