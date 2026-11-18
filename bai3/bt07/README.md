@@ -90,6 +90,7 @@ Chèn ảnh trình duyệt hiển thị kết quả:
 
 
 
+
 Xin chào Minh.
 Tổng = 30.
 
