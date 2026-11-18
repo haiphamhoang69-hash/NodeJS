@@ -49,13 +49,12 @@ node bai06.js
 5. Kết quả thực hiện
 Ảnh 1: Lệnh Chạy
 
+<img width="360" height="31" alt="image" src="https://github.com/user-attachments/assets/a7975e36-3b42-46eb-8093-e15bec92df81" />
+
 
 Ảnh 2: Kết quả chạy chương trình
 
-Chạy lệnh:
 
-bash
-node bai06.js
 
 
 Kết quả hiển thị trên Terminal:
