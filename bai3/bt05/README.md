@@ -75,8 +75,7 @@ Chương trình hiển thị thông tin sau khi cập nhật thành công và đ
 
 !Ket qua cap nhat
 
-
-
+<img width="568" height="185" alt="image" src="https://github.com/user-attachments/assets/901c3b32-db60-4f44-9fb2-86044a8a72e1" />
 
 7. Kết luận
 
