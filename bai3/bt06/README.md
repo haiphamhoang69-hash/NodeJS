@@ -54,6 +54,7 @@ node bai06.js
 
 Ảnh 2: Kết quả chạy chương trình
 
+<img width="330" height="261" alt="image" src="https://github.com/user-attachments/assets/35304754-8400-4c25-a75a-6e8c7abb04e3" />
 
 Kết quả hiển thị trên Terminal:
 
