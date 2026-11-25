@@ -19,22 +19,7 @@ trong Node.js.
 Chương trình thực hiện tạo thư mục, ghi dữ liệu,
 đổi tên tập tin, đọc nội dung và xóa tập tin tạm.
 
-## 3. Cấu trúc dự án
-
-```text
-Bt08/
-├── bai08.js
-├── README.md
-└── images/
-    ├── 01-cau-truc.png
-    ├── 02-thuc-thi.png
-    └── 03-ket-qua.png
-```
-
-Sau khi chạy chương trình, thư mục data
-và tập tin ghichu_moi.txt sẽ được tạo tự động.
-
-## 5. Các chức năng đã thực hiện
+## 3. Các chức năng đã thực hiện
 
 1. Sử dụng module fs của Node.js.
 2. Tạo thư mục data.
@@ -47,17 +32,19 @@ và tập tin ghichu_moi.txt sẽ được tạo tự động.
 8. Xóa tập tin tam.txt bằng fs.unlink().
 9. Hiển thị thông báo kết quả từng thao tác.
 
-## 6. Hình ảnh thực hiện
+## 4. Hình ảnh thực hiện
 
 ### Ảnh 1: Thực thi chương trình
 
-![Thực thi chương trình](images/02-thuc-thi.png)
+<img width="324" height="57" alt="image" src="https://github.com/user-attachments/assets/4544721e-adbf-40e3-85a2-c7ade9e4452b" />
+
 
 ### Ảnh 2: Kết quả cuối cùng
 
-![Kết quả chương trình](images/03-ket-qua.png)
+<img width="561" height="411" alt="image" src="https://github.com/user-attachments/assets/f9a51775-8e87-4de9-a535-36a406485389" />
 
-## 7. Kết quả
+
+## 5. Kết quả
 
 Chương trình thực hiện thành công các thao tác
 quản lý tập tin bằng module fs.
