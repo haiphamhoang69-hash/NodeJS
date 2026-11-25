@@ -44,19 +44,12 @@ Sử dụng thêm $unwind và $project để hiển thị thông tin khoa tươn
 4. Hình ảnh thực hiện
 Ảnh 1: MongoDB Compass
 
-!MongoDB Compass
+<img width="540" height="209" alt="image" src="https://github.com/user-attachments/assets/83deed5d-2cfb-4a25-9713-985b7e71e467" />
 
-Ảnh 2: Code bai10.js
+Ảnh 2: Kết quả liên kết hai collection
 
-!Code chương trình
+<img width="749" height="279" alt="image" src="https://github.com/user-attachments/assets/3b590717-d43d-4485-bd71-6b9aced5a369" />
 
-Ảnh 3: Thực thi chương trình
-
-!Thực thi chương trình
-
-Ảnh 4: Kết quả liên kết hai collection
-
-!Kết quả cuối cùng
 
 5. Kết quả đạt được
 Tạo thành công collection departments với 2 khoa.
