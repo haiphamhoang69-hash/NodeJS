@@ -48,6 +48,3 @@ Mỗi chương trình được chạy riêng trên cổng 3000. Nhấn `Ctrl + C
 - Xây dựng và chạy ứng dụng máy tính theo mô hình MVC.
 
 Các kết quả được kiểm tra trực tiếp trên trình duyệt thông qua địa chỉ `http://localhost:3000`.
-
-## 7. Kết luận
-Qua bài thực hành, em hiểu được cách xây dựng ứng dụng Web với Express Framework, cách sử dụng Route, Middleware, Template Engine, xử lý lỗi và tổ chức chương trình theo mô hình MVC.
