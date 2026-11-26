@@ -1,0 +1,36 @@
+
+doctype html
+html
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport", content="width=device-width, initial-scale=1")
+        title Ung dung tinh toan
+        link(rel="stylesheet", href="/styles.css")
+    body
+        .container
+            h1 Ung dung tinh toan
+            p Nhap hai so va chon phep tinh
+
+            form(action="/calculator/calculate", method="POST")
+                label(for="num1") So thu nhat:
+                input#num1(type="number", step="any", name="num1", value=num1, required)
+
+                label(for="num2") So thu hai:
+                input#num2(type="number", step="any", name="num2", value=num2, required)
+
+                label(for="operation") Chon phep tinh:
+                select#operation(name="operation")
+                    option(value="add", selected=operation === 'add') Cong (+)
+                    option(value="subtract", selected=operation === 'subtract') Tru (-)
+                    option(value="multiply", selected=operation === 'multiply') Nhan (*)
+                    option(value="divide", selected=operation === 'divide') Chia (/)
+
+                button(type="submit") Tinh toan
+
+            if result !== undefined
+                .result
+                    h2 Ket qua: #{result}
+
+            if error
+                .error
+                    h2 Loi: #{error}
