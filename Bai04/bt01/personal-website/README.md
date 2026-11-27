@@ -44,27 +44,33 @@ Hình ảnh kết quả
 
 Hình 1: Giao diện trang chủ
 
-!Trang chủ
+<img width="1582" height="766" alt="image" src="https://github.com/user-attachments/assets/126c3c3c-8039-4f4d-8378-83e2cc6ed807" />
+
 
 Hình 2: Trang giới thiệu
 
-!Trang giới thiệu
+<img width="1583" height="718" alt="image" src="https://github.com/user-attachments/assets/de99940c-6df8-4203-a839-91ba50e05f36" />
+
 
 Hình 3: Trang kỹ năng
 
-!Trang kỹ năng
+<img width="1600" height="756" alt="image" src="https://github.com/user-attachments/assets/0c364ef0-ddd1-48cb-839d-a8df9cb3cb16" />
+
 
 Hình 4: Trang sở thích
 
-!Trang sở thích
+<img width="1586" height="758" alt="image" src="https://github.com/user-attachments/assets/3f5bf28d-288b-4a24-919c-2ea2371fb0ce" />
+
 
 Hình 5: Trang liên hệ
 
-!Trang liên hệ
+<img width="1590" height="754" alt="image" src="https://github.com/user-attachments/assets/0f20fa46-9506-4cdc-9d21-396050ecd33b" />
+
 
 Hình 6: Trang lỗi 404
 
-!Trang lỗi 404
+<img width="1141" height="418" alt="image" src="https://github.com/user-attachments/assets/dbf5013d-6cb9-46df-98d1-840f2dd4ec63" />
+
 
 7. Kết quả thực hiện
 Xây dựng thành công website giới thiệu cá nhân bằng Express Framework.
