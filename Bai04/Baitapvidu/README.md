@@ -26,7 +26,44 @@ Bài thực hành tìm hiểu và xây dựng ứng dụng Web bằng Node.js k�
 npm install express pug body-parser express-handlebars
 ```
 
-## 5. Các lệnh chạy chương trình
+## 5.Hình ảnh
+
+
+<img width="327" height="80" alt="image" src="https://github.com/user-attachments/assets/1cdb09ed-5f01-4468-b77a-744edbd67a1e" />
+
+
+
+<img width="339" height="105" alt="image" src="https://github.com/user-attachments/assets/7b265f86-7df5-470c-a463-04076e94a2a0" />
+
+
+
+<img width="550" height="94" alt="image" src="https://github.com/user-attachments/assets/c94e7263-f6ed-409f-bbc1-3c09300f63e3" />
+
+
+
+<img width="488" height="85" alt="image" src="https://github.com/user-attachments/assets/66aa852b-abf8-4c41-bbf6-8cca11cdefdf" />
+
+
+
+<img width="324" height="95" alt="image" src="https://github.com/user-attachments/assets/a0b45fd1-a47a-46ca-8cc4-0301a938fa05" />
+
+
+
+<img width="325" height="126" alt="image" src="https://github.com/user-attachments/assets/9255bba0-1c47-44d0-9113-14fe1be43ca2" />
+
+
+
+<img width="316" height="161" alt="image" src="https://github.com/user-attachments/assets/cafbdd4d-9d2d-4e43-8699-0c9f07b7eca1" />
+
+
+
+<img width="303" height="217" alt="image" src="https://github.com/user-attachments/assets/d3962d61-fa85-42ce-b4e2-80c137381b8d" />
+
+
+
+<img width="660" height="549" alt="image" src="https://github.com/user-attachments/assets/5ab7413c-3564-4d1b-a920-f08a48f25719" />
+
+## 6. Các lệnh chạy chương trình
 
 ```cmd
 node app.js
